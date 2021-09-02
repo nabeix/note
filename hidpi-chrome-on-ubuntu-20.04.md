@@ -1,7 +1,7 @@
 # hidpi-chrome-on-ubuntu-20.04
 
 ```
-sudo vi gnome-control-center/default-apps/google-chrome.xml
+sudo vi /usr/share/gnome-control-center/default-apps/google-chrome.xml
 ```
 
 ```
